@@ -1,0 +1,336 @@
+@media (max-width:900px) {
+   .certImgCont .certImg {
+        max-width: 80%;
+        max-height: 80%;
+    }
+   .certImgCont .hackImg {
+      width: 90%;
+      height: 90%;
+    }
+}
+
+@media (max-width: 850px) {
+  .about_section .about_me h1,
+  .contact_section h1,
+  section .skill_container h1 {
+    font-size: 5vw;
+  }
+
+  .about_section .about_me h3 {
+    font-size: 2.9vw;
+  }
+
+  .about_section .about_para {
+    font-size: 1.6vw;
+  }
+
+  .about_section .social_icons i,
+  .foot_social_icons .social_icons i {
+    font-size: 3vw;
+    margin: 2vw 0;
+    margin-right: 1.5vw;
+  }
+
+  .about_section .about_btn {
+    font-size: 2.5vw;
+  }
+
+  .contact_section .form_group form input,
+  .contact_section .form_group form textarea {
+    width: 70%;
+    font-size: 2.6vw;
+  }
+
+  .contact_section .form_group form .contact_btn {
+    font-size: 2.2vw;
+    width: 30%;
+  }
+
+  .skill_box .skill_head {
+    font-weight: 500;
+    font-size: 3vw;
+    margin: 1vw 0;
+  }
+
+  .foot_list_container .foot_list_items ul li a {
+    font-size: 2.3vw;
+  }
+
+  footer .copyright .copyright_item {
+    font-size: 2vw;
+  }
+}
+
+@media (max-width: 600px) {
+  .navbar .name h2 {
+    font-size: 4.7vw;
+  }
+
+  .nav_list_items li,
+  .nav-img {
+    display: none;
+  }
+
+  .navbar .nav_list_items i {
+    display: block;
+    font-size: 60px;
+  }
+
+  .about_section {
+    flex-direction: column-reverse;
+  }
+
+  .about_section .about_me h1,
+  #about_section .about_me h1,
+  .contact_section h1,
+  section .skill_container h1 {
+    font-size: 8.5vw;
+    margin-top: 4vw;
+  }
+
+  .about_section .about_me h3,
+  #about_section .about_me h3 {
+    font-size: 3.9vw;
+  }
+
+  .about_section .about_para,
+  #about_section .about_para {
+    font-size: 2.6vw;
+  }
+
+  .about_section .social_icons i,
+  .foot_social_icons .social_icons i {
+    font-size: 4vw;
+    margin: 3vw 0;
+    margin-right: 1.9vw;
+  }
+
+  .about_section .about_btn,
+  #about_section .about_btn {
+    font-size: 3.5vw;
+  }
+
+  .about_section .image_container img,
+  #about_section .image_container img {
+    max-width: 75%;
+    display: block;
+    margin: auto;
+    margin-top: 11vw;
+  }
+
+  section #about_section {
+    flex-direction: column-reverse;
+  }
+
+  .certImgCont .certImg {
+    max-width: 90%;
+    max-height: 90%;
+}
+
+  .service_container .heading,
+  .certificate .heading {
+    font-size: 8vw;
+  }
+  .service_container .service_boxes .box {
+    width: 85%;
+  }
+
+  .service_boxes .box_head {
+    font-size: 4vw;
+    display: flex;
+    justify-content: center;
+  }
+  .service_boxes .box_para {
+    font-size: 3vw;
+    margin-top: 2vw;
+  }
+
+  .contact_section .form_group form input,
+  .contact_section .form_group form textarea {
+    width: 80%;
+    font-size: 3.6vw;
+  }
+
+  .contact_section .form_group form .contact_btn {
+    font-size: 2.9vw;
+    width: 30%;
+  }
+
+  .skill_box .skill_head {
+    font-size: 5vw;
+  }
+
+  .foot_list_container .foot_list_items ul li a {
+    font-size: 3vw;
+  }
+
+  footer .copyright .copyright_item {
+    font-size: 3vw;
+  }
+}
+
+@media (max-width: 400px) {
+  .navbar {
+    padding: 2vw;
+  }
+  .navbar .name h2 {
+    font-size: 7vw;
+  }
+
+  .navbar .nav_list_items i {
+    font-size: 40px;
+  }
+
+  .about_section .about_me h1,
+  .contact_section h1 {
+    font-size: 9vw;
+    margin-top: 6vw;
+  }
+
+  .about_section .about_me h3 {
+    font-size: 4.9vw;
+    margin: 1.6vw 0;
+  }
+
+  .about_section .about_para {
+    font-size: 3.3vw;
+  }
+
+  .about_section .social_icons i,
+  .foot_social_icons .social_icons i {
+    font-size: 6vw;
+    margin: 4vw 0;
+    margin-right: 2.4vw;
+  }
+
+  .about_section .about_btn {
+    font-size: 4.5vw;
+    margin: 2vw 0;
+  }
+
+  .certImg {
+    height: 350px;
+    width: 350px;
+  }
+
+  .service_container .heading,
+  .certificate .heading,
+  .skill_container h1 {
+    font-size: 12vw;
+    margin: 4vw 0;
+  }
+
+  .service_boxes .box {
+    padding: 7vw 4vw;
+  }
+  .service_boxes .box_head {
+    font-size: 6vw;
+  }
+  .service_boxes .box_para {
+    font-size: 4.3vw;
+  }
+
+  .foot_list_container .foot_list_items ul li a {
+    font-size: 3.5vw;
+  }
+
+  footer .copyright .copyright_item {
+    font-size: 3.8vw;
+  }
+}
+
+@media (max-width:350px) {
+    .certImg {
+        height: 290px;
+        width: 290px;
+    }
+}
+
+@media (max-width: 300px) {
+    .certImg {
+        height: 240px;
+        width: 240px;
+    }
+
+  .contact_section .form_group form input,
+  .contact_section .form_group form textarea {
+    width: 85%;
+    font-size: 4.6vw;
+  }
+  .contact_section .form_group form .contact_btn {
+    font-size: 4.9vw;
+    width: 40%;
+  }
+  .skill_box .progress_container {
+    height: 15px;
+  }
+}
+
+@media (max-width: 250px) {
+  .navbar .name h2 {
+    font-size: 9vw;
+  }
+
+  .navbar .nav_list_items i {
+    font-size: 30px;
+  }
+
+  .about_section .about_me h1,
+  section .skill_container h1 {
+    font-size: 10.4vw;
+    margin-top: 10vw;
+  }
+
+  .about_section .about_me h3 {
+    font-size: 5.9vw;
+    margin: 1.6vw 0;
+  }
+
+  .about_section .about_para {
+    font-size: 4vw;
+  }
+
+  .about_section .social_icons i,
+  .foot_social_icons .social_icons i {
+    font-size: 7vw;
+    margin: 4.8vw 0;
+    margin-right: 2.4vw;
+  }
+
+  .about_section .about_btn {
+    font-size: 5.5vw;
+    margin: 3vw 0;
+  }
+  .certImg {
+    height: 90%;
+    width: 90%;
+}
+  section .service_container {
+    top: 13vw;
+  }
+
+  .service_container .heading,
+  .certificate .heading,
+  .contact_section h1 {
+    font-size: 12vw;
+    margin: 5vw 0;
+  }
+
+  .service_boxes .box {
+    padding: 9vw 4vw;
+  }
+  .service_boxes .box_head {
+    font-size: 7.5vw;
+  }
+  .service_boxes .box_para {
+    font-size: 5.3vw;
+  }
+
+  .skill_box .skill_head {
+    font-size: 6vw;
+  }
+
+  footer .copyright .copyright_item {
+    font-size: 4.3vw;
+  }
+}
